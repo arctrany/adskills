@@ -1,16 +1,23 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "adskills",
-  "description": "AI-assisted code review and refactoring plugins for OpenSpec-driven vibe coding projects",
   "version": "1.0.0",
-  "author": {
+  "description": "AI-assisted code review and refactoring plugins for OpenSpec-driven vibe coding projects",
+  "owner": {
     "name": "arctrany",
-    "url": "https://github.com/arctrany"
+    "email": "arctrany@github.com"
   },
-  "repository": "https://github.com/arctrany/adskills",
-  "plugins": {
-    "vibe-review": {
-      "path": ".",
-      "description": "Multi-expert code review and refactoring for OpenSpec projects"
+  "plugins": [
+    {
+      "name": "vibe-review",
+      "description": "Multi-expert code review and refactoring for OpenSpec-driven vibe coding projects. Uses Architect, Code Quality Expert, and Spec Guardian agents to identify issues and generate refactoring proposals.",
+      "version": "1.0.0",
+      "author": {
+        "name": "arctrany",
+        "email": "arctrany@github.com"
+      },
+      "source": ".",
+      "category": "productivity"
     }
-  }
+  ]
 }
