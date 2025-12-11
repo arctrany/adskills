@@ -1,0 +1,16 @@
+{
+  "name": "adskills",
+  "description": "AI-assisted code review and refactoring plugins for OpenSpec-driven vibe coding projects",
+  "version": "1.0.0",
+  "author": {
+    "name": "arctrany",
+    "url": "https://github.com/arctrany"
+  },
+  "repository": "https://github.com/arctrany/adskills",
+  "plugins": {
+    "vibe-review": {
+      "path": ".",
+      "description": "Multi-expert code review and refactoring for OpenSpec projects"
+    }
+  }
+}
