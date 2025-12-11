@@ -1,0 +1,19 @@
+{
+  "name": "vibe-review",
+  "version": "1.0.0",
+  "description": "AI-assisted code review and refactoring plugin for OpenSpec-driven vibe coding projects. Uses multiple expert roles (Architect, Code Quality Expert, Spec Guardian) to identify architectural inconsistencies, code quality issues, and spec deviations, then generates OpenSpec-compliant refactoring proposals.",
+  "author": {
+    "name": "adskills",
+    "url": "https://github.com/arctrany/adskills"
+  },
+  "repository": "https://github.com/arctrany/adskills",
+  "license": "MIT",
+  "keywords": [
+    "code-review",
+    "refactoring",
+    "openspec",
+    "vibe-coding",
+    "architecture",
+    "multi-agent"
+  ]
+}
