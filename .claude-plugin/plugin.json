@@ -1,5 +1,5 @@
 {
-  "name": "vibe-review",
+  "name": "vibe-openspec-review",
   "version": "1.0.0",
   "description": "AI-assisted code review and refactoring plugin for OpenSpec-driven vibe coding projects. Uses multiple expert roles (Architect, Code Quality Expert, Spec Guardian) to identify architectural inconsistencies, code quality issues, and spec deviations, then generates OpenSpec-compliant refactoring proposals.",
   "author": {

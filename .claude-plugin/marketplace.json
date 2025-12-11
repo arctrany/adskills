@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "vibe-review",
+      "name": "vibe-openspec-review",
       "description": "Multi-expert code review and refactoring for OpenSpec-driven vibe coding projects. Uses Architect, Code Quality Expert, and Spec Guardian agents to identify issues and generate refactoring proposals.",
       "version": "1.0.0",
       "author": {

@@ -1,4 +1,4 @@
-# Vibe Review - AI Code Review Plugin for OpenSpec Projects
+# Vibe OpenSpec Review - AI Code Review Plugin for OpenSpec Projects
 
 A Claude Code plugin that provides AI-assisted code review and refactoring for OpenSpec-driven vibe coding projects. Uses multiple expert perspectives to identify architectural inconsistencies, code quality issues, and specification deviations.
 
@@ -21,7 +21,7 @@ The easiest way to install this plugin is through Claude Code's marketplace syst
 claude plugin marketplace add https://github.com/arctrany/adskills
 
 # Install the plugin from the marketplace
-claude plugin marketplace install vibe-review
+claude plugin marketplace install vibe-openspec-review
 
 # Verify installation
 claude plugin list
@@ -67,7 +67,7 @@ claude plugin list
 /help
 ```
 
-You should see `/vibe-review:review`, `/vibe-review:quick-review`, and `/vibe-review:generate-proposal` in the available commands.
+You should see `/vibe-openspec-review:review`, `/vibe-openspec-review:quick-review`, and `/vibe-openspec-review:generate-proposal` in the available commands.
 
 ## Commands
 
